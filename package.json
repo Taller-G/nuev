@@ -1,0 +1,11 @@
+{
+  "name": "dasd",
+  "version": "1.0.0",
+  "description": "A production-ready boilerplate project using Clean Architecture.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/interfaces/index.js"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
